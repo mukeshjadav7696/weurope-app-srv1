@@ -1,1 +1,1 @@
-echo "Hello Azure!";
+echo "Hello and welcome to Azure!";
